@@ -1,4 +1,4 @@
-package com.wantdo.erp.test.spring.spring;
+package com.wantdo.erp.test.spring;
 
 /**
  * @ Date : 16/4/4

@@ -1,4 +1,4 @@
-package com.wantdo.erp.test.spring.spring;
+package com.wantdo.erp.test.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ActiveProfiles;

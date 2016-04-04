@@ -1,7 +1,7 @@
 package com.wantdo.erp.mapper;
 
 import com.wantdo.erp.model.OrderInfo;
-import com.wantdo.erp.test.spring.spring.SpringTransactionalTestCase;
+import com.wantdo.erp.test.spring.SpringTransactionalTestCase;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
